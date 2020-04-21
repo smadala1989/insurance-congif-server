@@ -1,2 +1,2 @@
-# insurance-congig-server
+# insurance-config-server
 config-server
